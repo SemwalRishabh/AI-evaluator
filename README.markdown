@@ -86,9 +86,6 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot using Lan
 - **Advanced UI**: Enhance Streamlit with real-time file previews or query suggestions.
 - **Vector Store Options**: Support Chroma or Pinecone for persistent storage.
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 - Built with [LangChain](https://python.langchain.com/) for RAG and document processing.
 - Powered by [Streamlit](https://streamlit.io/) for the web interface.
